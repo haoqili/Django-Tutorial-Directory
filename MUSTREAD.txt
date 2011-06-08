@@ -1,0 +1,1 @@
+templates location is absolute, must change when relocate directory of TEMPLATE_DIRS in settings.py
